@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">InClass03</string>
+    <string name="Name">Name:</string>
+    <string name="Enter_Name">Enter Name</string>
+    <string name="Email">Email:</string>
+    <string name="Enter_Email">Enter Email</string>
+    <string name="Id">ID:</string>
+    <string name="Enter_Id">Enter ID</string>
+    <string name="Dept">Dept:</string>
+    <string name="Submit">Submit</string>
+    <string name="Computer_science">Computer Science</string>
+    <string name="CS">Computer Science</string>
+    <string name="Software">Software Info. Systems</string>
+    <string name="BioInfo">Bio Informatics</string>
+    <string name="DS">Data Science</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Select">Select</string>
+    <string name="Error">Error: All the fields are required!</string>
+    <string name="ErrorEmail">Error: Invalid Email id! Please Enter correct Email id</string>
+    <string name="ErrorName">Error: Invalid Name! Name can only contain upper case or lower case letters</string>
+    <string name="CancelToast">Cancel was clicked!</string>
+    <string name="Registration">Registration</string>
+    <string name="Department">Department</string>
+    <string name="Profile">Profile</string>
+
+</resources>
