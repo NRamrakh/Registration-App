@@ -1,4 +1,4 @@
-# To Do App
+# Registration App
 
 This is an android application. 
 **Frame work used:** Android Studio
