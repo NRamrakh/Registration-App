@@ -8,7 +8,7 @@ This is an android application. It lets user register into a department and view
 
 ## Problem Statement
 
-Build an  application  that  uses  multiple  activities  and exchanges data among these activities. Refer the below wireframe for the application.
+Build an application that exchanges data among multiple activities. Refer the below wireframe images for the application.
 
 
 ![image](https://user-images.githubusercontent.com/70915043/137659661-184e2bf6-14f6-4af2-bd83-483ed415eeb1.png)
