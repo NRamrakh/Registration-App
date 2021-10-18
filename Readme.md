@@ -1,6 +1,7 @@
 # Registration App
 
-This is an android application. 
+This is an android application. It lets user register into a department and view his profile.
+
 **Frame work used:** Android Studio
 **Languages used:** XML, Java
 
